@@ -1,0 +1,20 @@
+{
+  "name": "ProjectOne",
+  "version": "1.0.0",
+  "description": "WEB503",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TherealJC/ProjectOne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TherealJC/ProjectOne/issues"
+  },
+  "homepage": "https://github.com/TherealJC/ProjectOne#readme"
+}
